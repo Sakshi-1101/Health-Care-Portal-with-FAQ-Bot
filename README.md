@@ -26,4 +26,4 @@ HTML, CSS, Javascript, Bootstrap, Azure Services
   - Visual Studio Code
 
 ### Project Link
-https://calm-cliff-0fbc7f610.1.azurestaticapps.net/
+https://red-mushroom-02ecaaa10.1.azurestaticapps.net
